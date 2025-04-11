@@ -13,3 +13,4 @@ const xpText = document.querySelector("#xpText");
 const healthText = document.querySelector("#healthText");
 const goldText = document.querySelector("#goldText");
 const monsterStats = document.querySelector("#monsterStats");
+const monsterName = document.querySelector("#monsterName");
