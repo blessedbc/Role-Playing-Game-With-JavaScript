@@ -108,3 +108,7 @@ function update(location) {
 function goTown() {
   update(locations[0]);
 }
+
+function goStore() {
+  update(locations[1]);
+}
